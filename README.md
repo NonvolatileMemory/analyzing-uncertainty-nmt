@@ -1,3 +1,7 @@
+# Modification
+
+Adapting to WMT14/FULL DATASET.
+
 # Introduction
 
 This repository contains additional reference translations for the WMT'14 En-De and En-Fr test sets (_newstest2014_) as described in the paper:
